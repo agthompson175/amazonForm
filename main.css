@@ -1,0 +1,37 @@
+.formbox{
+    padding: 20px;
+}
+
+
+#newto{
+    color: grey;
+}
+
+#passwordlist{
+    justify-content: space-between;
+}
+
+.list-inline {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+#loginbutton{
+    background: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    background-image: linear-gradient( rgb(223, 204, 164), rgba(252, 185, 2, 0.829));
+
+}
+
+#loginbutton .hover {
+    background-color: aqua;
+}
+
+.border{
+    border-radius: 10px;
+}
+
+#createaccountbtn{
+    background-image: linear-gradient();
+}
